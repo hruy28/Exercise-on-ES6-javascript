@@ -1,0 +1,9 @@
+Usage: babel-node . <command>
+
+Examples:
+
+  babel-node .        # Shows explanation
+  babel-node . help   # Shows explanation
+  babel-node . list   # List todo items
+  babel-node . add    # Add todo item
+  babel-node . done   # Mark as done
